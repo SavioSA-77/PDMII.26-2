@@ -1,0 +1,6 @@
+name: sqlite_dart_app
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  sqflite_common_ffi: ^2.3.0
